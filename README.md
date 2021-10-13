@@ -1,2 +1,2 @@
 # Grupo-8-CDD
-grupo de Diego, Larry, Benja y Cristobal
+Grupo de Diego, Larry, Benja y Cristobal
