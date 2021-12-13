@@ -1,5 +1,6 @@
-# Introducion
-### **Nuestro proyecto se dividira en 6 partes**
+# Introducción
+
+### **Indice**
 
 1. [Extracción de datos/Limpieza](https://08benja08p.github.io/Grupo-8-CDD/#extracci%C3%B3n-de-datoslimpieza-de-datos)
 2. [Procesamiento y transformación](https://08benja08p.github.io/Grupo-8-CDD/#procesamiento-y-transformaci%C3%B3n)
@@ -9,7 +10,7 @@
 6. [Conclusiones y visualizaciones al cierre](https://08benja08p.github.io/Grupo-8-CDD/#conclusiones-y-visualizaciones-al-cierre)
 7. [Sobre nosotros](https://08benja08p.github.io/Grupo-8-CDD/#Sobre-nosotros)
 
-**Título del proyecto**: Influencia de los factores sociales y económicos en la proyección de la delincuencia.
+**Título del proyecto**: Influencia de factores sociodemográficos en el número de delitos por comuna.
 
 **Contexto y motivación**: El presente proyecto busca medir proyecciones sobre el aumento o disminución de los niveles de delincuencia por tipo de incidentes considerando todas las comunas de Chile disponibles en la muestra, además se considera factores como índice de pobreza, población, superficie e incluso fase de paso a paso para los años de pandemia
 
@@ -82,3 +83,15 @@ Benjamín Prieto - bprietz@uc.cl
 Larry Uribe - larry@uc.cl
 
 ![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg "Logo Title Text 1")
+
+<table>
+  <tr>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg" width="300"></td>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Diego.jpg" width="300"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Benja-Foto.JPG" width="300" ></td>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg" width="300"></td>
+  </tr>
+</table>
