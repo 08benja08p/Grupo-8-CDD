@@ -28,7 +28,7 @@ Larry Uribe - larry@uc.cl
 
 ### **Nuestro proyecto se dividira en 6 partes**
 
-1. [Extracción de datos/Limpieza](https://www.google.com)
+1. [Extracción de datos/Limpieza](https://08benja08p.github.io/Grupo-8-CDD/#introducion)
 2. [Procesamiento y transformación](https://www.google.com)
 3. [Analisis exploratorio](https://www.google.com)
 4. [Aprendizaje supervisado](https://www.google.com)
