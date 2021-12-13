@@ -66,24 +66,6 @@ escribir
 
 # Sobre nosotros
 
-Nuestro grupo para el proyecto final de Intro a Ciencia de Datos es:
-
-Cristóbal Cancino - cristobal.cancinob@uc.cl
-
-![f1](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg "Logo Title Text 1")
-
-Diego Rodríguez - drodrguez@uc.cl
-
-![f2](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Diego.jpg "Logo Title Text 1")
-
-Benjamín Prieto - bprietz@uc.cl
-
-![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Benja-Foto.JPG "Logo Title Text 1")
-
-Larry Uribe - larry@uc.cl
-
-![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg "Logo Title Text 1")
-
 <table>
   <tr>
     <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg" width="200"></td>
@@ -96,5 +78,11 @@ Larry Uribe - larry@uc.cl
     <td>Diego Rodríguez</td>
     <td>Benjamín Prieto</td>
     <td>Larry Uribe</td>
+  </tr>
+  <tr>
+    <td>cristobal.cancinob@uc.cl</td>
+    <td>drodrguez@uc.cl</td>
+    <td>bprietz@uc.cl</td>
+    <td>larry@uc.cl</td>
   </tr>
 </table>
