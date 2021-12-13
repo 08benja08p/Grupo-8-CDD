@@ -1,22 +1,13 @@
 # Introducion
+### **Nuestro proyecto se dividira en 6 partes**
 
-Nuestro grupo para el proyecto final de Intro a Ciencia de Datos es:
-
-Cristóbal Cancino - cristobal.cancinob@uc.cl
-
-![f1](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg "Logo Title Text 1")
-
-Diego Rodríguez - drodrguez@uc.cl
-
-![f2](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Diego.jpg "Logo Title Text 1")
-
-Benjamín Prieto - bprietz@uc.cl
-
-![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Benja-Foto.JPG "Logo Title Text 1")
-
-Larry Uribe - larry@uc.cl
-
-![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg "Logo Title Text 1")
+1. [Extracción de datos/Limpieza](https://08benja08p.github.io/Grupo-8-CDD/#extracci%C3%B3n-de-datoslimpieza-de-datos)
+2. [Procesamiento y transformación](https://08benja08p.github.io/Grupo-8-CDD/#procesamiento-y-transformaci%C3%B3n)
+3. [Analisis exploratorio](https://08benja08p.github.io/Grupo-8-CDD/#analisis-exploratorio)
+4. [Aprendizaje supervisado](https://08benja08p.github.io/Grupo-8-CDD/#aprendizaje-supervisado)
+5. [Aprendizaje no supervisado](https://08benja08p.github.io/Grupo-8-CDD/#aprendizaje-no-supervisado)
+6. [Conclusiones y visualizaciones al cierre](https://08benja08p.github.io/Grupo-8-CDD/#conclusiones-y-visualizaciones-al-cierre)
+7. [Sobre nosotros](https://08benja08p.github.io/Grupo-8-CDD/#Sobre-nosotros)
 
 **Título del proyecto**: Influencia de los factores sociales y económicos en la proyección de la delincuencia.
 
@@ -41,11 +32,11 @@ los datos utlilizados en este proyecto fueron los siguientes:
 
 1. [Delitos registrados por CEAD](http://cead.spd.gov.cl/centro-de-documentacion/?wpdmpro=estadisticas-anuales-delitos-de-mayor-connotacion-social-dmcs-base-censo-2017)
 
-2. [Datos calidad educación](https://junar-selfpub-storage.s3.amazonaws.com/0705/50931/140196801712254783814864722173348825596?response-content-disposition=attachment%3B%20filename%3D%2220181218_SNED_2018_2019.csv%22&AWSAccessKeyId=AKIAI652OHJ6H2VI25OA&Expires=1639422218&Signature=gwJYuTTSvlY4%2FR%2Bav1L4kJRkWWI%3D)
+2. [Datos calidad educación](http://datos.mineduc.cl/dashboards/20014/descarga-bases-de-datos-sned/)
 
 3. [Datos pobreza](http://observatorio.ministeriodesarrollosocial.gob.cl/storage/docs/pobreza-comunal/2017/PLANILLA_Estimaciones_comunales_tasa_pobreza_por_ingresos_multidimensional_2017.xlsx)
 
-4. [Información comunas](https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Otros/InformacionComunas.csv)
+4. [Información comunas](https://github.com/MinCiencia/Datos-COVID19/blob/master/input/Otros/InformacionComunas.csv)
 
 5. [Datos natalidad](https://github.com/MinCiencia/Datos-COVID19/tree/master/input/RegistroCivil)
 
@@ -80,3 +71,23 @@ escribir
 # Conclusiones y visualizaciones al cierre
 
 escribir
+
+# Sobre nosotros
+
+Nuestro grupo para el proyecto final de Intro a Ciencia de Datos es:
+
+Cristóbal Cancino - cristobal.cancinob@uc.cl
+
+![f1](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg "Logo Title Text 1")
+
+Diego Rodríguez - drodrguez@uc.cl
+
+![f2](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Diego.jpg "Logo Title Text 1")
+
+Benjamín Prieto - bprietz@uc.cl
+
+![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Benja-Foto.JPG "Logo Title Text 1")
+
+Larry Uribe - larry@uc.cl
+
+![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg "Logo Title Text 1")
