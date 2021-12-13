@@ -86,12 +86,15 @@ Larry Uribe - larry@uc.cl
 
 <table>
   <tr>
-    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg" width="300"></td>
-    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Diego.jpg" width="300"></td>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Cristobal.jpg" width="200"></td>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Diego.jpg" width="200"></td>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Benja-Foto.JPG" width="200" ></td>
+    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg" width="200"></td>
   </tr>
-  
   <tr>
-    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Benja-Foto.JPG" width="300" ></td>
-    <td><img src="https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto-Larry.jpg" width="300"></td>
+    <td>Cristobal Cancino</td>
+    <td>Diego Rodríguez</td>
+    <td>Benjamín Prieto</td>
+    <td>Larry Uribe</td>
   </tr>
 </table>
