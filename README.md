@@ -17,15 +17,6 @@
 
 **Audiencia del público**: a la opinión pública (todo público) y organismos tanto públicos como privados para la toma de decisiones sociales relacionadas a la delincuencia.
 
-### **Nuestro proyecto se dividira en 6 partes**
-
-1. [Extracción de datos/Limpieza](https://08benja08p.github.io/Grupo-8-CDD/#introducion)
-2. [Procesamiento y transformación](https://www.google.com)
-3. [Analisis exploratorio](https://www.google.com)
-4. [Aprendizaje supervisado](https://www.google.com)
-5. [Aprendizaje no supervisado](https://www.google.com)
-6. [Conclusiones y visualizaciones al cierre](https://www.google.com)
-
 # Extracción de datos/Limpieza de datos
 
 los datos utlilizados en este proyecto fueron los siguientes:
