@@ -84,7 +84,7 @@ Con los datos obtenidos, se realizó un proceso de clustering. Se detectaron 5 c
 
 # Conclusiones y visualizaciones al cierre
 
-El objetivo de cuantificar la influencia de los factores sociodemográficos en los delitos de mayor connotación social no fue logrado totalmente, propablemente hizo falta un mayor nivel de acceso a datos de mejor calidad para la caracterización sociodemográfica.
+El objetivo de cuantificar la influencia de los factores sociodemográficos en los delitos de mayor connotación social no fue logrado totalmente, probablemente hizo falta un mayor nivel de acceso a datos de mejor calidad para la caracterización sociodemográfica.
 La distribución de las variables consideradas era bastante homogénea a excepción de las relacionadas con la población y delincuencia y no se encontraron correlaciones importantes entre las variables. El resultado del aprendizaje no supervisado es defectuoso también: corresponde solo a una clasificación por distribución de variables (principalmente delincuencia y población).
 Las limitaciones del proyecto vienen dadas por la caracterización que se hizo de las comunas y por el deficiente nivel de acceso a datos con el que se contó. Una mejora importante a implementar para este proyecto es la selección de las variables que caracterizan a las comunas.
 
