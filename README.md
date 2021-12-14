@@ -40,7 +40,7 @@ los datos utlilizados en este proyecto fueron los siguientes:
 
 La primera etapa del proyecto, luego de recabar los datos a utilizar, fue procesar los datos obtenidos. El objetivo principal de esta etapa consistió en lograr generar un dataset que incluyera toda la información recabada en un solo lugar. Lo anterior constituyó un gran desafío, dada las diferencias de tipeos de nombres que se encontraron en los datasets. Para lograr superar esa barrera, se utilizó una estandarización de nombres que consideraba la extracción de caracteres especiales y normalización a minúsculas, lo cual no fue suficiente. Se requirió de un análisis caso a caso para lograr la constitución del dataset buscado.
 
-IMAGEN DEL DATASET  obtenido
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/dataset.jpg "Logo Title Text 1")
 
 
 # Analisis exploratorio
@@ -56,16 +56,18 @@ Se realizó un análisis de las distribuciones de las distintas variables según
 
 •	Respecto del promedio de delitos, se puede observar que en comparación a la región metropolitana, el resto de las regiones parece tener una concentración hacia los valores inferiores de esta variable. Además, se puede observar que en la región metropolitana la distribución de los promedios de delitos es transversal: se abarca desde comunas con bajo promedio de delitos hasta comunas que presentan los mayores promedios de delitos a nivel nacional. La región de magallanes es la que presenta menor promedio de delitos anuales. 
 
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/6_graf.jpg "Logo Title Text 1")
 
-•	(grafico de distribución delitos por región)
 
-Cuando se realizó un primer análisis de las relaciones de las distintas variables con la cantidad de delitos de mayor connotación social, no se apreciaron en primera instancia grandes correlaciones, salvo con aquellas variables que se hallan relacionadas con la población (nacimientos, defunciones, y la población en sí). Una relación que cabe destacar es la de la pobreza con los niveles de delincuencia:  se puede observar que las comunas con mayor promedio de delitos anuales se concentran principalmente en los rangos inferiores del porcentaje de pobreza, mientras que en los rangos superiores de porcentaje de pobreza se observa una evidente disminución del promedio de delitos anuales. La situación es bastante similar para el caso de la variable Calidad Educacion, donde se observa una mayor promedio de delitos anuales en aquellas comunas que tienen un mayor nivel de calidad de educación. (grafico porcentaje de pobreza vs delitos)
+Cuando se realizó un primer análisis de las relaciones de las distintas variables con la cantidad de delitos de mayor connotación social, no se apreciaron en primera instancia grandes correlaciones, salvo con aquellas variables que se hallan relacionadas con la población (nacimientos, defunciones, y la población en sí). Una relación que cabe destacar es la de la pobreza con los niveles de delincuencia:  se puede observar que las comunas con mayor promedio de delitos anuales se concentran principalmente en los rangos inferiores del porcentaje de pobreza, mientras que en los rangos superiores de porcentaje de pobreza se observa una evidente disminución del promedio de delitos anuales. La situación es bastante similar para el caso de la variable Calidad Educacion, donde se observa una mayor promedio de delitos anuales en aquellas comunas que tienen un mayor nivel de calidad de educación.
+
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/dataset.jpg "Logo Title Text 1")
 
 
 # Aprendizaje supervisado
 
 Se realizaron 3 modelos de aprendizaje supervisado: Regresión multilineal, Lasso y Ridge. Estos procesos no fueron fructíferos del todo: a pesar de que las métricas de rendimiento no fueron del todo malas, se observó un gran nivel de ruido e imprecisión en las predicciones. Además el modelo Lasso, que fue el que mejor resultados arrojó, solo consideró las variables Población y nacimientos por año, del total de las variables consideradas.
-(Gráfico final de las regresiones)
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/6_graf.jpg "Logo Title Text 1")
 
 
 
