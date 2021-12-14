@@ -10,7 +10,7 @@
 4. [Aprendizaje supervisado](https://08benja08p.github.io/Grupo-8-CDD/#aprendizaje-supervisado)
 5. [Aprendizaje no supervisado](https://08benja08p.github.io/Grupo-8-CDD/#aprendizaje-no-supervisado)
 6. [Conclusiones y visualizaciones al cierre](https://08benja08p.github.io/Grupo-8-CDD/#conclusiones-y-visualizaciones-al-cierre)
-7. [Sobre nosotros](https://08benja08p.github.io/Grupo-8-CDD/#Sobre-nosotros)
+7. [Sobre nosotros](https://08benja08p.github.io/Grupo-8-CDD/#sobre-nosotros)
 
 **Título del proyecto**: Influencia de factores sociodemográficos en el número de delitos por comuna.
 
