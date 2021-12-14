@@ -38,27 +38,41 @@ los datos utlilizados en este proyecto fueron los siguientes:
 
 # Procesamiento y transformación
 
-Dadas variaciones en las convenciones utilizadas para nombrar a las comunas, utilizamos una función para estandarizar tales nombres. Se procedió a aprovechar esto para combinar los datos de todos los datasets ya limpios mencionados previamente, para después comenzar un análisis exploratorio de los datos obtenidos.
+La primera etapa del proyecto, luego de recabar los datos a utilizar, fue procesar los datos obtenidos. El objetivo principal de esta etapa consistió en lograr generar un dataset que incluyera toda la información recabada en un solo lugar. Lo anterior constituyó un gran desafío, dada las diferencias de tipeos de nombres que se encontraron en los datasets. Para lograr superar esa barrera, se utilizó una estandarización de nombres que consideraba la extracción de caracteres especiales y normalización a minúsculas, lo cual no fue suficiente. Se requirió de un análisis caso a caso para lograr la constitución del dataset buscado.
+
+IMAGEN DEL DATASET  obtenido
+
 
 # Analisis exploratorio
 
-Durante tal análisis exploratorio, nos encontramos con el curioso dato de que a pesar de que la comuna de Santiago tiene el mayor índice de delitos, la comuna con el mayor registro de defunciones (Fallecimientos), por casi el doble en el período que analizamos, fue la de Independencia.
+Desde la primera etapa del análisis exploratorio, que consistía en la detección de valores outliers, comenzaron a surgir datos de interés. Entre los que vale la pena destacar, se encontró que la cantidad de delitos de mayor connotación social en la comuna de Santiago es la mayor a nivel nacional; lo sorprendente, es que en segundo lugar se encuentra Puente Alto, pero con sólo la mitad del promedio respecto a la comuna de Santiago. Se comprobó que dicha información es consistente. 
+También se encontró que la comuna con mayor cantidad de defunciones por año a nivel país es la comuna de Independencia. Análogamente a la situación anterior, la cantidad de defunciones por año en Independencia es prácticamente el doble de las defunciones de la comuna que le sigue, que corresponde a la comuna de Santiago. No se encontró una explicación lógica para lo anterior.
+Se realizó un análisis de las distribuciones de las distintas variables según región. De este análisis surgieron algunas conclusiones de relevancia:
+•	En cuanto a la superficie en km2 de las comunas, destacan en particular las regiones del extremo norte de Chile y del extremo sur, que presentan las comunas con más superficie en km2 en comparación con el resto de las regiones.
 
-![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto_1.jpg "Logo Title Text 1")
+•	En cuanto al porcentaje de pobreza, la región metropolitana posee una concentración en los valores medios e inferiores de esta variable, presentando un panorama bastante más favorable que el resto de las regiones. La región con menos porcentaje de personas en pobreza multidimensional parece ser la región de Magallanes. Las comunas con mayor porcentaje de personas en situación de pobreza multidimensional se encuentran en las región de Arica y Parinacota, región de Tarapacá y región del Biobío, principalmente.
 
-Este dato sobre Independencia es a pesar de que en Santiago se denuncia una cantidad increíblemente grande de delitos, en comparación a otras regiones. Más del doble que la segunda comuna con más delitos.
+•	En cuanto a la calidad de la educación, en este caso destacan las regiones del norte de Chile y la XIV región de los Ríos, que en comparación con el resto de las regiones presentan niveles notablemente menores de calidad de educación. En el resto de las regiones se observa una distribución más transversal y equitativa de la calidad de educación en las comunas. Destacan por tener varias comunas con alto nivel de calidad de educación las regiones Metropolitana y VI región (O'Higgins).
 
-![f3](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/Foto_2.jpg "Logo Title Text 1")
+•	Respecto del promedio de delitos, se puede observar que en comparación a la región metropolitana, el resto de las regiones parece tener una concentración hacia los valores inferiores de esta variable. Además, se puede observar que en la región metropolitana la distribución de los promedios de delitos es transversal: se abarca desde comunas con bajo promedio de delitos hasta comunas que presentan los mayores promedios de delitos a nivel nacional. La región de magallanes es la que presenta menor promedio de delitos anuales. 
 
-Del dato de Independencia se puede añadir que no se encuentra en el listado de las 10 comunas con más delitos, por lo que es plausible asumir que una gran parte de las defunciones en tal comuna son por motivos no relacionados al crimen.
+
+•	(grafico de distribución delitos por región)
+
+Cuando se realizó un primer análisis de las relaciones de las distintas variables con la cantidad de delitos de mayor connotación social, no se apreciaron en primera instancia grandes correlaciones, salvo con aquellas variables que se hallan relacionadas con la población (nacimientos, defunciones, y la población en sí). Una relación que cabe destacar es la de la pobreza con los niveles de delincuencia:  se puede observar que las comunas con mayor promedio de delitos anuales se concentran principalmente en los rangos inferiores del porcentaje de pobreza, mientras que en los rangos superiores de porcentaje de pobreza se observa una evidente disminución del promedio de delitos anuales. La situación es bastante similar para el caso de la variable Calidad Educacion, donde se observa una mayor promedio de delitos anuales en aquellas comunas que tienen un mayor nivel de calidad de educación. (grafico porcentaje de pobreza vs delitos)
+
 
 # Aprendizaje supervisado
 
-escribir
+Se realizaron 3 modelos de aprendizaje supervisado: Regresión multilineal, Lasso y Ridge. Estos procesos no fueron fructíferos del todo: a pesar de que las métricas de rendimiento no fueron del todo malas, se observó un gran nivel de ruido e imprecisión en las predicciones. Además el modelo Lasso, que fue el que mejor resultados arrojó, solo consideró las variables Población y nacimientos por año, del total de las variables consideradas.
+(Gráfico final de las regresiones)
+
+
 
 # Aprendizaje no supervisado
 
-escribir
+Con los datos obtenidos, se realizó un proceso de clustering. Se detectaron 5 clusters relevantes en directa relación a los niveles de delincuencia. En este proceso, también tuvieron gran relevancia las variables de población y nacimientos x año.
+
 
 # Conclusiones y visualizaciones al cierre
 
