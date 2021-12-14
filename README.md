@@ -1,5 +1,7 @@
 # Introducción
 
+## [Video](https://www.youtube.com/watch?v=ObUYAk9pEFU)
+
 ### **Indice**
 
 1. [Extracción de datos/Limpieza](https://08benja08p.github.io/Grupo-8-CDD/#extracci%C3%B3n-de-datoslimpieza-de-datos)
@@ -73,7 +75,8 @@ Se realizaron 3 modelos de aprendizaje supervisado: Regresión multilineal, Lass
 
 # Aprendizaje no supervisado
 
-Con los datos obtenidos, se realizó un proceso de clustering. Se detectaron 5 clusters relevantes en directa relación a los niveles de delincuencia. En este proceso, también tuvieron gran relevancia las variables de población y nacimientos x año.
+En total, se reconocieron 5 clusters, diferenciados principalmente por su población y número de delitos. Destacan a nivel nacional por su cantidad de delitos el sector minero de Antofagasta y capitales regionales como arica y la serena. En particular en el cluster de Santiago, destacan las comunas de puente alto, providencia, Santiago e independencia por su alto nivel de delitos.
+
 
 ![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_1.jpg.png "Logo Title Text 1")
 
