@@ -56,12 +56,12 @@ Se realizó un análisis de las distribuciones de las distintas variables según
 
 •	Respecto del promedio de delitos, se puede observar que en comparación a la región metropolitana, el resto de las regiones parece tener una concentración hacia los valores inferiores de esta variable. Además, se puede observar que en la región metropolitana la distribución de los promedios de delitos es transversal: se abarca desde comunas con bajo promedio de delitos hasta comunas que presentan los mayores promedios de delitos a nivel nacional. La región de magallanes es la que presenta menor promedio de delitos anuales. 
 
-![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/6_graf.jpg "Logo Title Text 1")
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/alo.jpg "Logo Title Text 1")
 
 
 Cuando se realizó un primer análisis de las relaciones de las distintas variables con la cantidad de delitos de mayor connotación social, no se apreciaron en primera instancia grandes correlaciones, salvo con aquellas variables que se hallan relacionadas con la población (nacimientos, defunciones, y la población en sí). Una relación que cabe destacar es la de la pobreza con los niveles de delincuencia:  se puede observar que las comunas con mayor promedio de delitos anuales se concentran principalmente en los rangos inferiores del porcentaje de pobreza, mientras que en los rangos superiores de porcentaje de pobreza se observa una evidente disminución del promedio de delitos anuales. La situación es bastante similar para el caso de la variable Calidad Educacion, donde se observa una mayor promedio de delitos anuales en aquellas comunas que tienen un mayor nivel de calidad de educación.
 
-![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/dataset.jpg "Logo Title Text 1")
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/graf.jpg "Logo Title Text 1")
 
 
 # Aprendizaje supervisado
