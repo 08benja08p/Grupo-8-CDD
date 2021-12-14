@@ -75,11 +75,11 @@ Se realizaron 3 modelos de aprendizaje supervisado: Regresión multilineal, Lass
 
 Con los datos obtenidos, se realizó un proceso de clustering. Se detectaron 5 clusters relevantes en directa relación a los niveles de delincuencia. En este proceso, también tuvieron gran relevancia las variables de población y nacimientos x año.
 
-![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_1.jpg "Logo Title Text 1")
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_1.jpg.png "Logo Title Text 1")
 
-![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_2.jpg "Logo Title Text 1")
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_2.jpg.png "Logo Title Text 1")
 
-![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_3.jpg "Logo Title Text 1")
+![alt text](https://github.com/08benja08p/Grupo-8-CDD/raw/main/Fotos/snap_3.jpg.png "Logo Title Text 1")
 
 
 # Conclusiones y visualizaciones al cierre
